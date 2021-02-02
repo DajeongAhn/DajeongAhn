@@ -15,4 +15,4 @@ Here are some ideas to get you started:
  ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DajeongAhn)](https://github.com/anuraghazra/github-readme-stats)
-C:\Users\govle\Desktop\SSAFY\me.jpg
+C:\Users\govle\ssafy5\TIL\me.jpg
