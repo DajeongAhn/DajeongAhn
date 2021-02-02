@@ -15,4 +15,8 @@ Here are some ideas to get you started:
  ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DajeongAhn)](https://github.com/anuraghazra/github-readme-stats)
-C:\Users\govle\ssafy5\TIL\me.jpg
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DajeongAhn&show_icons=true&theme=gruvbox)
+
+<a href="https://github.com/DajeongAhn/github-readme-stats">
+  <img align="center" src="C:\Users\govle\ssafy5\TIL\me.jpg" />
+</a>
